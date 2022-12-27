@@ -40,27 +40,56 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Lecturer   
+          company:  Guangzhou Huashang Vocational College 
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-edu
+          location: Guangzhou, China
+          date_start: '2021-09'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.	
+              * Preside over scientific research of the faculty team, and engage in other research projects as a core member.
+              * Join the textbook compilation group and participate in various ability competitions and professional skill trainings.
+        - title: Management Trainee   
+          company: GF Securities Guangzhou Zengcheng business department
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-GF
+          location: Guangzhou, China
+          date_start: '2020-05-01'
+          date_end: '2020-06-31'
+          description: |2-
+              Responsibilities include:
+
+              * Participate in the company's morning meeting, master and track the daily dynamics of the capital market.
+              * Read and excavate the financial reports of listed companies, and write research reports.
+        - title: Management Trainee      
+          company: South China Normal University Management Office
+          company_url: ''
+          company_logo: org-edu
+          location: Guangzhou, China
+          date_start: '2019-06-01'
+          date_end: '2019-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * Responsible for a series of copywriting and report production, put forward analysis reports. 
+              * Responsible for personnel management, personnel training and public relations events. Regularly conduct compliance checks on employees' attendance and work.
+        - title: Personal Loan Department and Sales Department Manager 
+          company:  ICBC 
+          company_url: ''
+          company_logo: org-ICBC
+          location: Guangzhou, China
+          date_start: '2017-07'
+          date_end: '2017-09'
+          description: |2-
+              Responsibilities include:
+
+              * Review, scanning, entry and filing of personal loan customer data, and improve the bank loan database.	
+              * Familiar with banking business, guide and handle business according to customer needs.
+              * Assist the manager to carry out credit investigation and audit, sort out credit files and make data forms.
     design:
       columns: '2'
   - block: accomplishments
