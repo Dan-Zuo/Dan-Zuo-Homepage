@@ -60,7 +60,7 @@ sections:
           location: Guangzhou, China
           date_start: '2020-05-01'
           date_end: '2020-06-31'
-          description: |2-
+          description: 
               Responsibilities include:
 
               * Participate in the company's morning meeting, master and track the daily dynamics of the capital market.
