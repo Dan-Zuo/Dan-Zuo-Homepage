@@ -53,7 +53,8 @@ sections:
               * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.	
               * Preside over scientific research of the faculty team, and engage in other research projects as a core member.
               * Join the textbook compilation group and participate in various ability competitions and professional skill trainings.
-        - title: Management Trainee   
+       
+       - title: Management Trainee   
           company: GF Securities Guangzhou Zengcheng business department
           company_url: ''
           company_logo: org-GF
@@ -87,7 +88,7 @@ sections:
         #   description: |2-
         #       Responsibilities include:
 
-        #       * Review, scanning, entry and filing of personal loan customer data, and improve the bank loan database.	
+        #      
         #       * Familiar with banking business, guide and handle business according to customer needs.
         #       * Assist the manager to carry out credit investigation and audit, sort out credit files and make data forms.
     design:
