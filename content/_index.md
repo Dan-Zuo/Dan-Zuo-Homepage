@@ -43,7 +43,7 @@ sections:
         - title: Lecturer   
           company:  Guangzhou Huashang Vocational College 
           company_url: ''
-          company_logo: org-edu
+          company_logo: org-gc
           location: Guangzhou, China
           date_start: '2021-09'
           date_end: ''
@@ -57,40 +57,17 @@ sections:
        - title: Management Trainee   
           company: GF Securities Guangzhou Zengcheng business department
           company_url: ''
-          company_logo: org-GF
+          company_logo: org-x
           location: Guangzhou, China
           date_start: '2020-05-01'
           date_end: '2020-06-31'
-          description: 
+          description: |2-
               Responsibilities include:
 
               * Participate in the company's morning meeting, master and track the daily dynamics of the capital market.
               * Read and excavate the financial reports of listed companies, and write research reports.
-        # - title: Management Trainee      
-        #   company: South China Normal University Management Office
-        #   company_url: ''
-        #   company_logo: org-edu
-        #   location: Guangzhou, China
-        #   date_start: '2019-06-01'
-        #   date_end: '2019-08-31'
-        #   description: |2-
-        #       Responsibilities include:
+    
 
-        #       * Responsible for a series of copywriting and report production, put forward analysis reports. 
-        #       * Responsible for personnel management, personnel training and public relations events. Regularly conduct compliance checks on employees' attendance and work.
-        # - title: Personal Loan Department and Sales Department Manager 
-        #   company:  ICBC 
-        #   company_url: ''
-        #   company_logo: org-ICBC
-        #   location: Guangzhou, China
-        #   date_start: '2017-07'
-        #   date_end: '2017-09'
-        #   description: |2-
-        #       Responsibilities include:
-
-        #      
-        #       * Familiar with banking business, guide and handle business according to customer needs.
-        #       * Assist the manager to carry out credit investigation and audit, sort out credit files and make data forms.
     design:
       columns: '2'
   - block: accomplishments
