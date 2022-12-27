@@ -28,48 +28,8 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Lecturer   
-          company:  Guangzhou Huashang Vocational College 
-          company_url: ''
-          company_logo: org-gc
-          location: Guangzhou, China
-          date_start: '2021-09'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
 
-              * Responsible for the teaching of financial statement analysis, big data, fund investment, financial laws and other courses.	
-              * Preside over scientific research of the faculty team, and engage in other research projects as a core member.
-              * Join the textbook compilation group and participate in various ability competitions and professional skill trainings.
-       
-       - title: Management Trainee   
-          company: GF Securities Guangzhou Zengcheng business department
-          company_url: ''
-          company_logo: org-x
-          location: Guangzhou, China
-          date_start: '2020-05-01'
-          date_end: '2020-06-31'
-          description: |2-
-              Responsibilities include:
 
-              * Participate in the company's morning meeting, master and track the daily dynamics of the capital market.
-              * Read and excavate the financial reports of listed companies, and write research reports.
-    
-
-    design:
-      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
