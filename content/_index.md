@@ -65,31 +65,31 @@ sections:
 
               * Participate in the company's morning meeting, master and track the daily dynamics of the capital market.
               * Read and excavate the financial reports of listed companies, and write research reports.
-        - title: Management Trainee      
-          company: South China Normal University Management Office
-          company_url: ''
-          company_logo: org-edu
-          location: Guangzhou, China
-          date_start: '2019-06-01'
-          date_end: '2019-08-31'
-          description: |2-
-              Responsibilities include:
+        # - title: Management Trainee      
+        #   company: South China Normal University Management Office
+        #   company_url: ''
+        #   company_logo: org-edu
+        #   location: Guangzhou, China
+        #   date_start: '2019-06-01'
+        #   date_end: '2019-08-31'
+        #   description: |2-
+        #       Responsibilities include:
 
-              * Responsible for a series of copywriting and report production, put forward analysis reports. 
-              * Responsible for personnel management, personnel training and public relations events. Regularly conduct compliance checks on employees' attendance and work.
-        - title: Personal Loan Department and Sales Department Manager 
-          company:  ICBC 
-          company_url: ''
-          company_logo: org-ICBC
-          location: Guangzhou, China
-          date_start: '2017-07'
-          date_end: '2017-09'
-          description: |2-
-              Responsibilities include:
+        #       * Responsible for a series of copywriting and report production, put forward analysis reports. 
+        #       * Responsible for personnel management, personnel training and public relations events. Regularly conduct compliance checks on employees' attendance and work.
+        # - title: Personal Loan Department and Sales Department Manager 
+        #   company:  ICBC 
+        #   company_url: ''
+        #   company_logo: org-ICBC
+        #   location: Guangzhou, China
+        #   date_start: '2017-07'
+        #   date_end: '2017-09'
+        #   description: |2-
+        #       Responsibilities include:
 
-              * Review, scanning, entry and filing of personal loan customer data, and improve the bank loan database.	
-              * Familiar with banking business, guide and handle business according to customer needs.
-              * Assist the manager to carry out credit investigation and audit, sort out credit files and make data forms.
+        #       * Review, scanning, entry and filing of personal loan customer data, and improve the bank loan database.	
+        #       * Familiar with banking business, guide and handle business according to customer needs.
+        #       * Assist the manager to carry out credit investigation and audit, sort out credit files and make data forms.
     design:
       columns: '2'
   - block: accomplishments
